@@ -1,13 +1,14 @@
 ---
 marp: true
+theme: uncover
+class: invert
 --- 
 
 ### Quick Refresher
-
-vfd v
-
+* I'm Abdo!
+* System Analyst Co-op on the *CATS* team!
+* From BCIT's CST program
 ---
-
 ### What I worked on
 
 ---
@@ -15,3 +16,4 @@ vfd v
 ---
 ### Suggestions
 ---
+![](/custom-bsod.webp)
