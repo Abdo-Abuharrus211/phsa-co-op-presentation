@@ -1,0 +1,19 @@
+/* @theme my-theme */
+@import 'default';
+
+section {
+    /* background-color: #1A4870; */
+    background: rgb(9,9,9);
+    background: linear-gradient(90deg, rgba(9,9,9,1) 0%, rgba(9,62,12,1) 100%); 
+
+}
+
+.bluescrn {
+    color: #2596be;
+}
+
+.columns {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+}
