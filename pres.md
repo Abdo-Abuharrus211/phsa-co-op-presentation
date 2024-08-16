@@ -13,6 +13,7 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
 * I'm Abdo!
 * System Analyst Co-op on the *CATS* team!
 * From BCIT's CST program
+* 
 ---
 ## What I worked on
 <div>
@@ -53,7 +54,7 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
 ---
 ### Highlights
 * Our little in-person Monday huddles.
-* Very talented team members that's always keen on helping and teaching.
+* Very talented team members that are always keen on helping and teaching.
 * Tanico's cheeseburgers, seriously. 10/10 Can't recommend enough.
 ---
 ### Suggestions _(nitpicking tbh)_
