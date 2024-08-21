@@ -6,6 +6,7 @@ class: invert
 ```PowerShell
 PS C:\Users\Abdulqadir Abuharrus> Hello...
 ```
+<small>Written in Markdown, rendered by Marp.</small>
 
 ---
 ![bg left height:4in](headshot1.jpg)
@@ -15,23 +16,23 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
 * From BCIT's CST program
 * 
 ---
-## What I worked on
+### What I worked on
 <div>
 <ul>
 <li>
-    <small>Wrote over 13 programs & scripts, including one for DocAlPrt</small>
+    <p>Wrote over 13 programs & scripts, including one for DocAlPrt</p>
 </li>
 <li>
-    <small>Generated many CAIS reports from SQL queries and scripts</small>
+    <p>Generated many CAIS reports from SQL queries and scripts</p>
 </li>
 <li>
-    <small>Updated legacy scripts for new Active Directory policies</small>
+    <p>Updated legacy scripts for new Active Directory policies</p>
 </li>
 <li>
-    <small>CAIS user provisioning</small>
+    <p>CAIS user provisioning</p>
 </li>
 <li>
-    <small>Wrote documentation and guides for future co-ops</small>
+    <p>Wrote documentation and guides for future co-ops</p>
 </li>
 <!-- <li>
     <small></small>
@@ -53,9 +54,12 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
 
 ---
 ### Highlights
-* Our little in-person Monday huddles.
-* Very talented team members that are always keen on helping and teaching.
-* Tanico's cheeseburgers, seriously. 10/10 Can't recommend enough.
+<ul>
+<li>Our little in-person Monday huddles.</li>
+<li>Very talented team members that are always keen on helping and teaching.</li>
+<li>Tanico's cheeseburgers, seriously. 10/10 Can't recommend enough.</li>
+</ul>
+
 ---
 ### Suggestions _(nitpicking tbh)_
 <div>
