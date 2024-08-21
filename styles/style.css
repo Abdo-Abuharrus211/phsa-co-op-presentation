@@ -1,0 +1,40 @@
+:root {
+    --text: #d5fafe;
+    --background: #011c23;
+    --primary: #6febfa;
+    --secondary: #9e1505;
+    --accent: #d9f82d;
+
+
+    background-color: var(--background);
+    color: var(--text);
+    font-size: 2rem;
+    font-weight: 500;
+    /* background: rgb(9,9,9);
+    background: linear-gradient(90deg, rgba(9,9,9,1) 0%, rgba(9,62,12,1) 100%);  */
+
+}
+
+h3 {
+    color: var(--primary);
+}
+
+.container,
+.flex-container {
+    margin: 5%;
+    padding: 10%;
+}
+
+.flex-container {
+    display: flex;
+
+}
+
+.item {
+    flex: 1;
+}
+
+.intro-img {
+    border-radius: 2%;
+    width: 60%;
+}
