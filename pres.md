@@ -9,18 +9,17 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
 <small>Written in Markdown, rendered by Marp.</small>
 
 ---
-![bg left height:4in](headshot1.jpg)
+![bg left height:4in](work.jpg)
 ### Quick Refresher
 * I'm Abdo!
 * System Analyst Co-op on the *CATS* team!
-* From BCIT's CST program
-* 
+* From BCIT's CST program.
 ---
 ### What I've worked on
 <div>
 <ul>
 <li>
-    <p>Written over 13 programs & scripts, including one for DocAlPrt</p>
+    <p>Written over 13 programs & scripts, including one for DocAlPrt and a ticket scraper for ServiceNow.</p>
 </li>
 <li>
     <p>Generated many CAIS reports from SQL queries and scripts</p>
@@ -64,7 +63,7 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
 ### Suggestions _(nitpicking tbh)_
 <div>
 <ul>
-<li>Give co-ops a chance to lead a mini project.</li>
+<li>Give co-ops a chance to lead a mini project, perhaps?</li>
 <li>Ask co-ops to write out their goals in their role early on, helps keep them motivated.</li>
 </ul>
 </div>
