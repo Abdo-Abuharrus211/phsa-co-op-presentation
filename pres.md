@@ -9,7 +9,7 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
 <small>Written in Markdown, rendered by Marp.</small>
 
 ---
-![bg left height:4in](work.jpg)
+![bg left height:4in](media/work.jpg)
 ### Quick Refresher
 * I'm Abdo!
 * System Analyst Co-op on the *CATS* team!
@@ -69,7 +69,7 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
 </div>
 
 ---
-![bg](bsod-bg.jpg)
+![bg](media/bsod-bg.jpg)
 <div>
     <h1>Goodbye :(</h1>
     <p>It was great, so thank you.</p>
