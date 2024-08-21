@@ -40,7 +40,7 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
 </div>
 
 ---
-### Growth
+### What I've learned
 <div>
 <ul>
 <li>PowerShell scripting</li>
