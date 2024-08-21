@@ -16,11 +16,11 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
 * From BCIT's CST program
 * 
 ---
-### What I worked on
+### What I've worked on
 <div>
 <ul>
 <li>
-    <p>Wrote over 13 programs & scripts, including one for DocAlPrt</p>
+    <p>Written over 13 programs & scripts, including one for DocAlPrt</p>
 </li>
 <li>
     <p>Generated many CAIS reports from SQL queries and scripts</p>
@@ -72,7 +72,6 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
 ---
 ![bg](bsod-bg.jpg)
 <div>
-    <h1>:(</h1>
-    <h2>Goodbye</h2>
-    <p>It was great, thank you.</p>
+    <h1>Goodbye :(</h1>
+    <p>It was great, so thank you.</p>
 </div>
