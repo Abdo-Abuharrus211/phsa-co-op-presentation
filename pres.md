@@ -11,9 +11,18 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
 ---
 ![bg left height:4in](media/work.jpg)
 ### Quick Refresher
-* I'm Abdo!
-* System Analyst Co-op on the *CATS* team!
-* From BCIT's CST program.
+<!-- <ul>
+<li>I'm Abdo</li>
+<li>System Analyst Co-op on the CATS team!</li>
+<li>From BCIT's CST program.</li>
+</ul> -->
+```PowerShell
+PS C:\Users\Abdulqadir Abuharrus> info.ps1
+- "I'm Abdo"
+- "System Analyst Co-op on the CATS team!"
+- "From BCIT's CST program."
+```
+
 ---
 ### What I've worked on
 <div>
@@ -22,7 +31,7 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
     <p>Written over 13 programs & scripts, including one for DocAlPrt and a ticket scraper for ServiceNow.</p>
 </li>
 <li>
-    <p>Generated many CAIS reports from SQL queries and scripts</p>
+    <>Generated many CAIS reports from SQL queries and scripts</>
 </li>
 <li>
     <p>Updated legacy scripts for new Active Directory policies</p>

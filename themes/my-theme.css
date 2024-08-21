@@ -27,7 +27,7 @@ section {
     color: var(--text);
     font-size: 1.8rem;
     font-weight: 500;
-    background-image: linear-gradient(to bottom, #011c23, #072229, #0d2930, #142f36, #1b363d);
+    background-image: linear-gradient(to bottom, #011c23, #072229, #0d2930, #142f36, #27454c);
     /* background: rgb(9,9,9); */
     /* background: linear-gradient(90deg, var(--background) 0%, var(--background) 100%); */
 
