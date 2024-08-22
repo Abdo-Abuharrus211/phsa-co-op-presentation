@@ -1,7 +1,8 @@
 ---
 marp: true
 theme: my-theme
-class: invert   
+class: invert
+transition: pull
 --- 
 ```PowerShell
 PS C:\Users\Abdulqadir Abuharrus> Hello...
@@ -9,8 +10,8 @@ PS C:\Users\Abdulqadir Abuharrus> Hello...
 <small>Written in Markdown, rendered by Marp.</small>
 
 ---
-![bg left height:4in](media/work.jpg)
-### Quick Refresher
+![bg left height:5in](media/work.jpg)
+# Quick Refresher
 <!-- <ul>
 <li>I'm Abdo</li>
 <li>System Analyst Co-op on the CATS team!</li>
@@ -24,7 +25,7 @@ PS C:\Users\Abdulqadir Abuharrus> info.ps1
 ```
 
 ---
-### What I've worked on
+# What I've worked on
 <div>
 <ul>
 <li>
@@ -49,7 +50,7 @@ PS C:\Users\Abdulqadir Abuharrus> info.ps1
 </div>
 
 ---
-### What I've learned
+# What I've learned
 <div>
 <ul>
 <li>PowerShell scripting</li>
@@ -61,15 +62,15 @@ PS C:\Users\Abdulqadir Abuharrus> info.ps1
 </div>
 
 ---
-### Highlights
+# Highlights
 <ul>
 <li>Our little in-person Monday huddles.</li>
 <li>Very talented team members that are always keen on helping and teaching.</li>
-<li>Tanico's cheeseburgers, seriously. 10/10 Can't recommend enough.</li>
+<li>Tanico's cheeseburgers 🍔🍔🍔 , 10/10!</li>
 </ul>
 
 ---
-### Suggestions _(nitpicking tbh)_
+# Suggestions _(nitpicking tbh)_
 <div>
 <ul>
 <li>Give co-ops a chance to lead a mini project, perhaps?</li>
@@ -80,6 +81,6 @@ PS C:\Users\Abdulqadir Abuharrus> info.ps1
 ---
 ![bg](media/bsod-bg.jpg)
 <div>
-    <h1>Goodbye :(</h1>
+    <h1><span style="color: #ffff">Goodbye :(</span></h1>
     <p>It was great, so thank you.</p>
 </div>
