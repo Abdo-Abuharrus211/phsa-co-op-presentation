@@ -2,7 +2,6 @@
 marp: true
 theme: my-theme
 class: invert
-transition: pull
 --- 
 ```PowerShell
 PS C:\Users\Abdulqadir Abuharrus> Hello...
@@ -66,7 +65,7 @@ PS C:\Users\Abdulqadir Abuharrus> info.ps1
 <ul>
 <li>Our little in-person Monday huddles.</li>
 <li>Very talented team members that are always keen on helping and teaching.</li>
-<li>Tanico's cheeseburgers 🍔🍔🍔 , 10/10!</li>
+<li>BBQ at Tanico's, the 🍔 were 10/10!</li>
 </ul>
 
 ---
@@ -74,7 +73,7 @@ PS C:\Users\Abdulqadir Abuharrus> info.ps1
 <div>
 <ul>
 <li>Give co-ops a chance to lead a mini project, perhaps?</li>
-<li>Ask co-ops to write out their goals in their role early on, helps keep them motivated.</li>
+<li>Ask co-ops to write down their goals and what skills they'd like to develop early on, <br> it helps keep them motivated and have goals to work towards.</li>
 </ul>
 </div>
 
