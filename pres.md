@@ -3,10 +3,11 @@ marp: true
 theme: my-theme
 class: invert
 --- 
-```PowerShell
+<!-- ```PowerShell
 PS C:\Users\AbdulqadirAbuharrus> Hello...
-```
-<small>Written in Markdown & HTML, rendered by Marp. <span><img src="media/Marp.png" style="width: 30px; vertical-align: middle; margin-bottom: 10px"></span></small>
+``` -->
+ <h3><pre class='code-block'><span style="color:orange;">PS</span> C:\Users\AbdulqadirAbuharrus> Hello...</pre></h3>
+<p>Written in Markdown & HTML, rendered by Marp<span><img src="media/Marp.png" style="width: 30px; vertical-align: middle; margin-bottom: 10px"></span></p>
 
 ---
 <!-- ![bg left height:5in](media/work.jpg) 
@@ -65,7 +66,7 @@ PS C:\Users\Abdulqadir Abuharrus> info.ps1
 ---
 # What I've learned
 <div class="flex-container">
-    <div class="item">
+<div class="item">
     <ul>
         <li><p>PowerShell scripting</p></li>
         <li><p>Active Directory and user management</p></li>
