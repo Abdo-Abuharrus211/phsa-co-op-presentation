@@ -71,8 +71,8 @@ PS C:\Users\Abdulqadir Abuharrus> info.ps1
         <li><p>PowerShell scripting</p></li>
         <li><p>Active Directory and user management</p></li>
         <li><p>Improved my SQL skills (much to be improved...)</p></li>
-        <li><p>Maintainig productivity in WFH settting.</p></li>
-        <li><p>Getting into habit of documenting my work.</p></li>
+        <li><p>Maintainig productivity in WFH setting.</p></li>
+        <li><p>Getting into the habit of documenting my work.</p></li>
     </ul>
     </div>
     <div class="item">
@@ -86,14 +86,14 @@ PS C:\Users\Abdulqadir Abuharrus> info.ps1
 # Highlights
 <ul>
 <li><p>Our little in-person Monday huddles.</p></li>
-<li><p>Very talented team members that are always keen on helping and teaching.</p></li>
+<li><p>Very talented team members who are always keen on helping and teaching.</p></li>
 <li><p>BBQ at Tanico's, the 🍔 were 10/10!</p></li>
 </ul>
 
 ---
 # Suggestions
 <ul>
-<li><p>Give co-ops a chance to lead a mini project, perhaps?</p></li>
+<li><p>Give co-ops a chance to lead a mini-project, perhaps?</p></li>
 <li><p>Ask co-ops to write down their goals and what skills they'd like to develop early on, <br> it helps keep them motivated and set goals to work towards. <em>#get_good</em></p></li>
 </ul>
 </div>
